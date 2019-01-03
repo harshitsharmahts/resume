@@ -1,0 +1,105 @@
+﻿Harshit Sharma
+	+91 958 791 0916
+harshitsharmahts@gmail.com
+github.com/HarshitSharmaHts
+http://harshitsharma.ml
+	CAREER OBJECTIVE
+Aspiring a suitable position where an opportunity exists for skill and the tasks are challenging, to upgrade my knowledge thus improving the organization and me.
+SUMMARY
+* Possess strong knowledge in Java programming and OOPs concepts.
+* Possess excellence in JAVA 7/8 Such as JDBC, JSP, JSTL, Servlets.
+* Have experience of creating REST web services using JAVA Jersey, Spring REST.
+* Significant knowledge of components of Amazon Web Services (AWS) Such as VPC, EC2, S3 Bucket, Elastic BeanStalk, ELB, AutoScaling, EBS, Route53, CloudWatch, CloudTrail, IAM, and AWS SDK (JAVA).
+* Can effectively work with databases like MongoDB/MySQL and have implemented applications by using JDBC.
+* Proficiency in deployment on application servers like Tomcat 8.
+* Have experience on design pattern (Singleton, Factory Method, MVC, Builder ).
+* Moderate knowledge in CI/CD by using Jenkins, Chef, Docker, Git and Github.
+* Hold a  good command over UNIX-like systems, and can effectively manage Linux and BSD systems.
+* A highly motivated, fast learner able to quickly adapt to new environments and experimenting rapidly and continuously improving.
+PROFESSIONAL EXPERIENCE
+
+
+Researching Souls Technologies India Pvt. Ltd, Bangalore                        Duration : June 2017 - July 2017
+Project:  StaySafe App                                                                               
+Role : Full Stack Developer Intern
+Roles & Responsibility : 
+* Developed StaySafe Android application for Researching Souls Technologies.
+* Used Java & JavaScript in frontend development.
+* AWS, Node.js, and MongoDB in backend for processing, storing and retrieving data for the application.
+* Deployed MongoDB and Node server on EC2.
+* Configured Elastic Load Balancers with EC2 Auto scaling groups.
+* Created S3 buckets, policies to store various files and backup.
+* Set up CloudWatch service for monitoring and load balancing strategies.
+* Created a base AMI and responsible for taking the snapshot of EC2 instances.
+* Worked to develop the RESTfull API using Node/Express JS.
+NIIT University, Rajasthan                                                                          Duration : Feb 2018 - April 2018     
+Project : Online Deal Finder                                                                         Role : Backend Developer
+Roles & Responsibility :
+* Developed industry ready platform like OLX to provide the best deal between seller and buyer on the basis of their geolocation.
+* Build the backend for the webapp using Java servlet 3.1
+* Used MVC Pattern to develop the webapp.
+* Used AWS JAVA SDK to store files on AWS S3 Bucket.
+* Integrated Sign-In with google and using credential as well, set up the one way encryption for password.
+* Created login session of 3hrs for each login using java servlet cookie.
+* Used MongoDB atlas to store the users data and product data on cloud.
+* Deployed the webapp on elastic AWS beanstalk.
+NIIT University, Rajasthan                                                                          Duration : Nov 2017 - April 2018     
+Project : SanskritaJyotsana                                                                            Role : Java Developer
+Roles & Responsibility :
+* A Sanskrita E-tutor for English Speaking peoples, a Desktop Application, that has ability to convert the Harvard Kyoto to Devanagari.
+* Responsible for writing the logic to convert Harvard Kyoto into devanagari text.
+* Able to convert text on key events.
+* Created desktop application’s UI by using JavaFX and CSS.
+
+
+SKILLS
+Java Technologies
+	JAVA 7/8, JSP/Servlets, Jersey, Spring REST, JDBC
+	Cloud Technologies
+	AWS
+	Programming Languages
+	JAVA 8, C Programming , Shell Script, Python
+	Databases
+	MySQL, MongoDB
+	UI/Frontend
+	HTML5, CSS3, JavaScript, BootStrap 4.0
+	 Development/Deployment Tools
+	Jenkins (Intermediate) , Docker (Beginner), GITHUB, Eclipse, IntelliJ, Git
+	Operating Systems
+	Linux, Windows
+	INDEPENDENT PROJECTS
+Project Title
+	Description
+	Technologies Used
+	Chit Chat
+	This is a chat application, which allows communication to take place through text messages between people in the same chatroom.
+	 JSP/Servlet, MySQL
+	Coinmarket WebApp
+	This application allows user to check the status of the cryptocurrency that has been marked by them as favourite. 
+	AngularJS,JAVA Jersey, MongoDB
+	ACHIEVEMENTS
+
+* Proficiency in CS Subjects| NIIT University 
+Over the past three years at this institution secured the highest grade in the following subjects : Object Oriented Programming, Design and Analysis of Algorithm, Computer Architecture & Organization, Java Programming, Programming Tools.
+* State Child Scientist| National Children’s Science Congress, Uttar Pradesh 
+National Children’s Science Congress is an organization dedicated to recognizing the young talents in the field of science. The theme for 2012 was “Energy- Explore, Harness & Conserve”. Awarded with the position of state child scientist for research work in this domain.
+
+
+POSITION OF RESPONSIBILITIES
+
+* Technical Event Organizer| SiNUsoid (NIIT University Tech Fest) 
+OCTOBER 6, 2017 – OCTOBER 8, 2017
+Team leader of one of the technical teams responsible for conducting the event ‘errorStack’. 
+* Event Management| NIIT University 
+AUGUST 2017 – DECEMBER 2017
+As a part of an Activity Oriented Course: Event Management in the curriculum, was a member of the organizing team of several esteemed college events. 
+EDUCATION
+NIIT University, Neemrana — BTech
+AUG 2015 - PRESENT
+Computer Science & Engineering
+CGPA: 7.74
+	P.B.A.S Inter College,Hathras — 12th Standard
+2014
+PCM
+Aggregate : 80.8%
+	________________
